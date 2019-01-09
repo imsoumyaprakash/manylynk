@@ -1,6 +1,8 @@
 # manylynk
 
 Product skeleton - 
-https://github.com/lukethered/manylynk/blob/master/Untitled-Project.jpg
+
+![alt text](https://github.com/lukethered/manylynk/blob/master/Untitled-Project.jpg)
+
 
 
